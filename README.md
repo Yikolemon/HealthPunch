@@ -1,5 +1,7 @@
 # HealthPunch
 南京财经大学自动健康打卡客户端程序
+# 下载地址
+https://github.com/Yikolemon/HealthPunch/releases
 
 # 使用教程
 ### 1.安装谷歌浏览器
